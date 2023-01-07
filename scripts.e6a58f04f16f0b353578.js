@@ -1,1 +1,0 @@
-navigator.serviceWorker?.register("service-worker.js").then(e=>{e.addEventListener("updatefound",()=>{let t=e.installing;t?.addEventListener("statechange",()=>{console.log("Update Installed. Restarting..."),"activated"==t.state&&location.reload(!0)})})});
