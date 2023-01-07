@@ -1,4 +1,4 @@
-navigator.serviceWorker?.register('service-worker.js').then(reg => {
+navigator.serviceWorker?.register('/service-worker.js').then(reg => {
 	reg.addEventListener('updatefound', () => {
 		let newWorker = reg.installing
 		newWorker?.addEventListener('statechange', () => {
