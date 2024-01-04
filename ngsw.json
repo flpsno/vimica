@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1704331097817,
+  "timestamp": 1704410190553,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -35,7 +35,8 @@
         "/assets/icons/android-chrome-maskable-512x512.png",
         "/assets/images/declaracao-de-conteudo.webp",
         "/assets/images/declaracao-de-conteudo_2.webp",
-        "/assets/images/logo.png"
+        "/assets/images/logo.png",
+        "/assets/images/pedido.webp"
       ],
       "patterns": []
     }
@@ -49,6 +50,7 @@
     "/assets/images/declaracao-de-conteudo.webp": "e1e179185ad6810434cab352a4d4c6d410f9822a",
     "/assets/images/declaracao-de-conteudo_2.webp": "df6f431e7a30f6358f1a8649411219b369ed70d9",
     "/assets/images/logo.png": "c002bbb3f692c732094103e8a884d2a217a9ea4f",
+    "/assets/images/pedido.webp": "901d375eec54674279f998e50d3f97510300f4f9",
     "/favicon.ico": "42464c0e97f54e71627ad931053b2f44b72bb98c",
     "/index.html": "ea57b4cd2b41593b3d5ccf937bc19b1039da6949",
     "/main.e446016b9092772a.js": "b3378b05d5c6e9df58e97392414604e5f332d7ba",
