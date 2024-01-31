@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1706659655678,
+  "timestamp": 1706719636468,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.a7ed4f0ddbe9bf34.js",
+        "/main.82a7751a0425f5d7.js",
         "/manifest.webmanifest",
         "/polyfills.ae04296ef8dd7612.js",
         "/runtime.f13a4f70d4a45e62.js",
@@ -54,8 +54,8 @@
     "/assets/images/pedido.webp": "543762d5a29c5a5c78584febd141b8ff5048958b",
     "/assets/images/pedido2.webp": "1285ab76820115b352dd977807f0974ed2d75c6c",
     "/favicon.ico": "42464c0e97f54e71627ad931053b2f44b72bb98c",
-    "/index.html": "b4fbee57388788e2b1a98c3045bcec2a8660e2c8",
-    "/main.a7ed4f0ddbe9bf34.js": "b10924c6abe0c03124e6d458f4efc2af5a8af805",
+    "/index.html": "4a066996b5b6ceb184da70ec3938995481328384",
+    "/main.82a7751a0425f5d7.js": "8d3b5825e39e2bc99cf6ea76017aeb07a2e4cf14",
     "/manifest.webmanifest": "491537c18b829f58ea30e31dd771f16df690c1ab",
     "/polyfills.ae04296ef8dd7612.js": "9f1f5cb4013d36e9d42d38dc7ce0dba549e7374c",
     "/runtime.f13a4f70d4a45e62.js": "7fe2420ef945ff6e0baa8a9d81081f522e80b44b",
