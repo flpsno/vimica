@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1709998983728,
+  "timestamp": 1709999448922,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.ed58fe21b95bde30.js",
+        "/main.e1862504a446ed0a.js",
         "/manifest.webmanifest",
         "/polyfills.ae04296ef8dd7612.js",
         "/runtime.f13a4f70d4a45e62.js",
-        "/styles.ff2a2e3aaf14faaf.css"
+        "/styles.4fafa2831be9de97.css"
       ],
       "patterns": []
     },
@@ -54,12 +54,12 @@
     "/assets/images/pedido.webp": "543762d5a29c5a5c78584febd141b8ff5048958b",
     "/assets/images/pedido2.webp": "1285ab76820115b352dd977807f0974ed2d75c6c",
     "/favicon.ico": "42464c0e97f54e71627ad931053b2f44b72bb98c",
-    "/index.html": "c7c43084744aaf5ea99be11ed631954cb83ad2e2",
-    "/main.ed58fe21b95bde30.js": "fdfcdd150f19d47e714439c873642c179e33a15b",
+    "/index.html": "edab0bbc4be873625939e14f0baf37eec70a8fb1",
+    "/main.e1862504a446ed0a.js": "08b534ff7fe439fc149d5c6de7db30c0e170407a",
     "/manifest.webmanifest": "491537c18b829f58ea30e31dd771f16df690c1ab",
     "/polyfills.ae04296ef8dd7612.js": "9f1f5cb4013d36e9d42d38dc7ce0dba549e7374c",
     "/runtime.f13a4f70d4a45e62.js": "7fe2420ef945ff6e0baa8a9d81081f522e80b44b",
-    "/styles.ff2a2e3aaf14faaf.css": "7c21a6948711bb0c2014938f53de100b0d262e9a"
+    "/styles.4fafa2831be9de97.css": "773e4740d4f3b35e8ceb3708df9896dfb4fbe6c1"
   },
   "navigationUrls": [
     {
